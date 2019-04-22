@@ -1,0 +1,5 @@
+- [x] Install Pygame module.
+- [x] Locate a github project that uses Pygame.
+- [] Create a working prototype with basic movement controls.
+- [] Introduce weapons and enemies to the game.
+- [] Create at least two different levels.
