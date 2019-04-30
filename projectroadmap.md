@@ -1,6 +1,6 @@
 - [x] Install Pygame module.
 - [x] Locate a github project that uses Pygame.
-- [x] Add player black.
-- [x] Add basic movement controls.
+- [x] Add player block.
+- [x] Working movement controls.
 - [x] Add collisions and platforms.
 - [x] Create multiple levels.
