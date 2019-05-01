@@ -4,3 +4,4 @@
 - [x] Working movement controls.
 - [x] Add collisions and platforms.
 - [x] Create multiple levels.
+- [x] Player sprite and background.
